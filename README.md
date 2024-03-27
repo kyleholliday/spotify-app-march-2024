@@ -54,3 +54,11 @@ End product of the "Build a Spotify Connected App" newline course
    ```shell
    git push heroku main
    ```
+
+## Playlist View
+
+<img src="/client/public/playlist.png" alt="playlist" />
+
+## Top Tracks View
+
+<img src="/client/public/top-tracks.png" alt="top tracks" />
