@@ -1,5 +1,7 @@
 # Spotify Connected App
 
+Currently, with the Spotify API rules, you'll need to email me so I can add your login/email to the approval list for entry.
+
 ## Local Installation & Set Up
 
 1. Register a Spotify App in your [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/) and add `http://localhost:8888/callback` as a Redirect URI in the app settings
